@@ -4,3 +4,8 @@ var personThree = {firstName: "sue", lastName: "johnson", phoneNumber: '404-335-
 
 var people = [personOne, personTwo, personThree];
 
+people.forEach(function(people){
+	$list.append()
+
+
+})
